@@ -1,0 +1,121 @@
+.header{
+    height: 55px; ;
+    width: 100%;
+}
+.left-head{
+    width:10% ;
+    height:100% ;
+    display: flex;
+    padding-left: 10px;
+}
+.phead{
+    color:#5f6368;
+    font-family: "Product Sans",Arial,sans-serif;
+    font-size: 22px;
+    line-height: 24px;
+    top: -1.5px;
+    padding-left: 8px;
+    vertical-align:middle;
+    font-weight:60px;
+}
+.right-head{
+    width:10% ;
+    height:100% ;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    right: 34px;
+    bottom: 1px;
+}
+.account{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 2px 2px 2px 20px;
+    margin-left: 100%;
+    color:#5f6368;
+    font-weight: 200px;
+
+}
+.aclogo{
+    height:50px ;
+    border-radius: 200px;
+    margin-top: 10px;
+}
+.switch-ac{
+    margin-left: 90px;
+    color:#5f6368;
+}
+.switch-ac:hover{
+    color:rgb(0, 145, 255)
+}
+.head2{
+    height: 40px;
+    width: 100%;
+    display: flex;
+    background-color: #e0dfdf;
+    font-size: 14px;
+    justify-content: flex-start;
+    align-items: center;
+    font-family: sanserif;
+}
+.container{
+    width:100%;
+    height: 700px;
+    display: flex;
+    border-color:4px solid blue;
+}
+.left-container{
+    width:44%;
+    height: 50%;
+    background-color: black;
+    border-radius: 8px;
+    margin-top: 60px;
+    margin-left:62px ;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.leftlogo{
+    height: 20px;
+    margin-top: 120px;
+    padding-left: 6px;
+    padding-bottom: 6px;
+}
+.leftuplogo{
+    height: 40px;
+    border-color:2px solid white;
+}
+.leftrightlogo{
+    height: 20px;
+    border-color: white;
+    background-color: white;
+    border-radius: 12px;
+    padding: 1px 1px 1px 1px;
+    margin-bottom: 6px;
+    margin-left: 542px;
+    
+}
+.mike{
+    height: 20px;
+    margin-left: 250px;
+    justify-items: center;
+    justify-content: ;  
+}
+.video{
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+.leftcheckpad{
+    height: 8px;
+    width:40px;
+    border-color: 2px solid rgb(138, 6, 6);
+}
+.right-container{
+    width:35%;
+    height:50%;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 60px;
+}
+
